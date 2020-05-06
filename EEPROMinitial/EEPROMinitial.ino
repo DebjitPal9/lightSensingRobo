@@ -6,6 +6,8 @@ void setup() {
   EEPROM.write(2,'J');
   EEPROM.write(3,'S');
   EEPROM.write(3,'D');
+  //for commmit
+  EEPROM.write(4,'E');
 
 }
 
