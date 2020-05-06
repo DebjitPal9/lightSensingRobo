@@ -1,0 +1,6 @@
+screen size 700*500 pxls
+
+rectangle max width 200 pxls
+rectangle height 100 pxls
+
+value of x axis changes with object angle
