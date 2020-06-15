@@ -1,5 +1,7 @@
-# lightSensingRobo
+# Light Sensing Robo
 
 An arduino implementation that senses light.
 
-![]('./finalDia.png')
+Made by Debjit Pal.
+
+<img src="./finalDia.png" width=500 />
